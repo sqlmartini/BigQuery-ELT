@@ -1,3 +1,3 @@
 # BigQuery-ELT
 
-[[https://github.com/sqlmartini/BIGQUERY-ELT/images/architecture.png|alt=Architecture]]
+[[https://github.com/sqlmartini/BigQuery-ELT/images/architecture.png]
